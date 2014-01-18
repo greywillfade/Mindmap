@@ -5,3 +5,5 @@ This is a simple example of using the D3 library (http://d3js.org/ , https://git
 
 Project contains the d3 code, index.html, and some data in the form of json. All logic specific to this project is currently contained within the index file.
 
+A demo is available at http://www.sallyjenkinson.co.uk/labs/mindmap/
+
